@@ -2,4 +2,4 @@ This project is used for comapring local and YouTube uploaded videos using Pytho
 
 Installation
 
-`pip install opencv-python imagehash yt-dlp`
+`pip3 install opencv-python imagehash yt-dlp`
