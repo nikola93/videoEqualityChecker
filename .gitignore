@@ -1,2 +1,5 @@
 .idea
 .venv
+comparison_results.csv
+comparison_results_after_mismatch.csv
+failed_frames
